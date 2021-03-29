@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "KillerWave",
+"productVersion": "0.1",
+"dataUrl": "Ch.3&4 Repo.data.unityweb",
+"wasmCodeUrl": "Ch.3&4 Repo.wasm.code.unityweb",
+"wasmFrameworkUrl": "Ch.3&4 Repo.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.18f1"
+}
